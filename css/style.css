@@ -76,6 +76,12 @@ hr {
 
 /* Animations */
 
+.video-animation {
+  width: 102%;
+  margin: auto;
+  display: block;
+}
+
 .animation {
   width: 102%;
   margin: auto;
