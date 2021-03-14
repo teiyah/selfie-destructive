@@ -1,0 +1,211 @@
+body {
+  max-width: 100%;
+  overflow-x: hidden; /* Makes Navbar not stick */
+
+  background-image: url(../gifs/animationThree.gif);
+  background-repeat: repeat;
+  background-size: 150px;
+}
+
+
+
+h1 {
+  font-weight: 300;
+}
+
+h2 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 4rem;
+  padding-bottom: 0.5rem;
+}
+
+hr {
+  border-style: solid none none;
+  border-color: #000;
+  border-width: 10px;
+  width: 100%;
+  margin: 0;
+}
+
+.eric-logo {
+  text-decoration: none;
+  color: #000;
+}
+
+.eric-logo:hover {
+  color: #464646;
+}
+
+/* Containers */
+
+.red-container {
+  background-color: #dc1f27;
+  padding: 6rem;
+  text-align: right;
+}
+
+.blue-container {
+  background-color: #004b9c;
+  color: #fff;
+  padding: 6rem;
+  text-align: left;
+}
+
+.yellow-container {
+  background-color: #fecd00;
+  padding: 6rem;
+  text-align: right;
+}
+
+.title-container {
+  padding-top: 2rem;
+}
+
+.footer-container {
+  text-align: center;
+  padding-top: 1.5rem;
+}
+
+
+/* Social Icons */
+
+.social-icons {
+  text-decoration: none;
+  color: #000;
+  float: right;
+  padding: 1rem;
+
+}
+
+/* Video Player */
+
+.video-player {
+  display: block;
+  margin: 20px auto;
+}
+
+.social-icons:hover {
+  color: #004b9c;
+}
+
+/* Music Download */
+
+.music-red {
+  text-decoration: none;
+  color: #000;
+}
+
+.music-blue {
+  text-decoration: none;
+  color: #000;
+}
+
+.music-red:hover {
+  color: #dc1f27;
+}
+
+.music-blue:hover {
+  color: #004b9c;
+}
+
+
+/* Animations */
+
+.animation {
+  width: 102%;
+  margin: auto;
+  display: block;
+}
+
+/* Home Image */
+
+.home-image {
+  width: 40%;
+  margin: auto;
+  display: block;
+}
+
+.home-button {
+  text-decoration: none;
+  color: #000;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.home-button p {
+  text-align: center;
+}
+
+.home-button:hover {
+  color: #dc1f27;
+}
+
+.home-text {
+  margin-bottom: 0;
+  margin-top: 16px;
+}
+
+.gnome-text {
+  margin-bottom: 0;
+  margin-top: 16px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+
+}
+
+/* Tour Section */
+
+.tour-rule {
+  border-style: solid none none;
+  border-color: #000;
+  border-width: 5px;
+  width: 100%;
+  margin: 0;
+}
+
+.tour-date {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+.tour-home {
+  text-align: right;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.anchor-home {
+  text-decoration: none;
+  color: #000;
+}
+
+.anchor-home:hover {
+  color: #fecd00;
+}
+
+.just-info {
+  padding-bottom: 0.5rem;
+}
+
+/* Contact Section */
+
+.contact-paragraph {
+  padding-top: 1rem;
+}
+
+.contact-me {
+  text-decoration: none;
+  color: #000;
+}
+
+.contact-me:hover {
+  color: #dc1f27;
+}
+
+/* Footer */
+.teiyah-footer {
+  text-decoration: none;
+  color: #000;
+}

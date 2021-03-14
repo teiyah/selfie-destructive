@@ -1,0 +1,37 @@
+body {
+     background-color: #fff;
+     -webkit-animation: random 5s infinite;
+     animation: random 5s infinite;
+}
+
+p {
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 1.7rem;
+  text-align: center;
+}
+@keyframes  random {
+    15% { background-color: red; }
+    30% { background-color: yellow; }
+    45% { background-color: green; }
+    60% { background-color: blue; }
+    75% { background-color: white; }
+}
+
+
+div
+{
+  background:#d6d6d6;
+  width:300px;
+  height:420px;
+  transition: all 0.3s ease-out;
+}
+.center
+{
+  margin:auto;
+  position:absolute;
+  top:0; bottom:0; left:0; right:0;
+}
+
+.other-intern {
+  font-size: 1rem;
+}
