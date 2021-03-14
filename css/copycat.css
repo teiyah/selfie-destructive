@@ -209,3 +209,8 @@ hr {
   text-decoration: none;
   color: #000;
 }
+
+.footer-names {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 1.6rem;
+}
